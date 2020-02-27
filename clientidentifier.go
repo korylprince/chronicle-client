@@ -10,8 +10,7 @@ import (
 const plistPath = "/Library/Preferences/ManagedInstalls.plist"
 
 //GetClientIdentifier retreives the munki ClientIdentifier key
-func GetClientIdentifier() (identifer string, err error) {
-
+func GetClientIdentifier() (string, error) {
 	f, err := os.Open(plistPath)
 	if err != nil {
 		return "", err
