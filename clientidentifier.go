@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/DHowett/go-plist"
+	"howett.net/plist"
 )
 
 const plistPath = "/Library/Preferences/ManagedInstalls.plist"
