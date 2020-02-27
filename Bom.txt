@@ -1,0 +1,8 @@
+.	40755	0/0
+./Library	40755	0/0
+./Library/LaunchDaemons	40755	0/0
+./Library/LaunchDaemons/tk.unstac.chronicle.plist	100644	0/0	974	184761612
+./usr	40755	0/0
+./usr/local	40755	0/0
+./usr/local/bin	40755	0/0
+./usr/local/bin/chronicle	100755	0/0	10678728	3629124941

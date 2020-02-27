@@ -1,4 +1,5 @@
+.DS_Store
 *.swp
 tags
-build/*.pkg
-build/chronicle
+build
+payload/usr/local/bin/chronicle
