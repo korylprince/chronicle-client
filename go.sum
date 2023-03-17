@@ -1,8 +1,6 @@
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
 github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
-github.com/korylprince/getpwd v0.0.0-20141212190344-48f5c5a48d36 h1:6YlRp5GuCs2NuflVJMZXCilPNU5cKElUFoGMgzS34lA=
-github.com/korylprince/getpwd v0.0.0-20141212190344-48f5c5a48d36/go.mod h1:GJU1BN4oD0OE+zor/ldpDk39jcMRIANmoJrg4JNKwX4=
 github.com/korylprince/macserial v1.0.0 h1:g9K6tlc7L1vMC9qb5g8J5WhXQ42VzGJdnBpsLM9HXYs=
 github.com/korylprince/macserial v1.0.0/go.mod h1:yx9H1/hSbRlqOUh+LLWXWXh96eOjfpNQcJJ0ZMfYgCE=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
